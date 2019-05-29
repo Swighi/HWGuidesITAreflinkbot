@@ -1,7 +1,7 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://hwguidesitareflinkbot.herokuapp.com/execute.php';
+$WEBHOOK_URL = 'https://hwguidesitareflinkbot.herokuapp.com/';
 $BOT_TOKEN = '737825729:AAFRL7KoTmLGXApmdNeFdlCA4YwbhREltBI';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
